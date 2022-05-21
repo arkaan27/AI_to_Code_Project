@@ -8,7 +8,7 @@ dependencies:
   - mlflow==1.14.1
   - pip=20.3.3
   - pip:
-    -wandb==0.10.31
+    - wandb==0.10.31
     - zipp
     - boto3==1.21.12
     - kaggle== 1..5.12
